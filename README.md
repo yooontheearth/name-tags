@@ -6,8 +6,13 @@
 アイコンはFontAwesomeの無料のものを使っている。  
 https://fontawesome.com/search?q=animal&m=free&s=solid%2Cbrands
 
+![画面](NameTags.png)
 
-## Source Code
+## Working sample
+
+https://stackblitz.com/edit/sveltejs-kit-template-default-dagit3?file=src/routes/index.svelte
+
+## Source code
 
 src/App.svelte
 
